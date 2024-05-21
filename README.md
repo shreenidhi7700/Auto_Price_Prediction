@@ -22,13 +22,13 @@ Diesel.
 
 Aspiration :-
 Aspiration in automobile price prediction refers to how the engine gets its air for combustion. It's either "naturally aspirated," which means it breathes air without any extra help, or "turbocharged" or "supercharged," which means it gets extra air forced into it for more power.
-std - Standard or Naturally Aspirated
+std - Standard or Naturally Aspirated,
 Turbo - Use of Turbochargers or Superchargers
 
 No of Doors :-
 The number of Doors a car has
 two - 2 door car,
-four - 4 door car
+four - 4 door car.
 
 Body Style :-
 The Body shape of the car,
@@ -47,7 +47,7 @@ fwd - front wheel drive,
 Engine Location :-
 Placement of the engine with respect to the car,
 front - engine is placed on the front,
-rear - engine is placed on the rear
+rear - engine is placed on the rear.
 
 WheelBase (in inches) :-
 Wheelbase in automobile price prediction refers to the distance between the front and rear axles of a vehicle. It's an important measurement because it affects how stable the car feels on the road, how much space is available inside, and sometimes even how the car handles. A longer wheelbase often means more interior space but can make the car less maneuverable, while a shorter wheelbase can improve agility but may sacrifice some interior room.
@@ -67,21 +67,21 @@ Curb weight in automobile price prediction means how much a car weighs when it's
 Engine Type :-
 DOHC: Dual Overhead Camshaft
 DOHCV: Dual Overhead Camshaft with Variable Valve Timing
-L: L-engine or Inline engine.
-OHC: Overhead Camshaft
-OHCF: Overhead Camshaft with Fuel Injection
-OHCV: Overhead Camshaft with Variable Valve Timing
+L: L-engine or Inline engine,
+OHC: Overhead Camshaft,
+OHCF: Overhead Camshaft with Fuel Injection,
+OHCV: Overhead Camshaft with Variable Valve Timing,
 Rotor: A component of a Wankel engine, which is a type of rotary engine.
 
 Num of Cylinders :-
 Refers to the numbers of cylinders in an engine
-two - 2 cylinders
-three - 3 cylinders
-four - 4 cylinders
-five - 5 cylinders
-six - 6 cylinders
-eight - 8 cylinders
-twelve - 12 cylinders
+two - 2 cylinders,
+three - 3 cylinders,
+four - 4 cylinders,
+five - 5 cylinders,
+six - 6 cylinders,
+eight - 8 cylinders,
+twelve - 12 cylinders.
 
 Engine size :-
 It refers to the volume inside the engine cylinders where fuel and air are burned to produce power. It's usually measured in liters (L) or cubic centimeters (cc).

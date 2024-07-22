@@ -3,11 +3,11 @@ We are required to model the price of cars with the available independent variab
 
 ## **Domain Analysis :-**
 
-### **Feature/Attribute Information :**
+### **Feature/Attribute Information :-**
 * **Symboling :-**
 Symboling refers to a numerical representation used by insurance companies to assess the risk associated with insuring a particular vehicle model. It's often used in the context of automobile insurance.
 Generally, vehicles with higher symbol numbers are considered to have a higher risk of being involved in accidents or incurring higher costs for insurance companies, thus leading to higher insurance premiums for the owners.
-A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe.
+A value of **+3** indicates that the auto is risky, **-3** that it is probably pretty safe.
 
 * **Normalized Losses :-**
 Normalized losses in automobile price prediction basically mean adjusting or standardizing the average losses that insurance companies face per year for each type of car. It helps make fair comparisons between different car models and their associated risks, which can affect how much insurance companies charge and, by extension, the prices of those cars.
@@ -17,7 +17,7 @@ The car company names from Japan, USA, Germany, France and Sweden.
 
 * **Fuel Type :-**
 Type of fuel used for the engine in the car,
-Gas/petrol.
+Gas/petrol,
 Diesel.
 
 * **Aspiration :-**
@@ -27,16 +27,16 @@ Turbo - Use of Turbochargers or Superchargers.
 
 * **No of Doors :-**
 The number of Doors a car has
-two - 2 door car.
+two - 2 door car,
 four - 4 door car.
 
 * **Body Style :-**
 The Body shape of the car,
-Convertible: Has a retractable or removable roof, providing an open-air driving experience. Convertibles are often associated with luxury and style, leading to higher pricing compared to similar non-convertible models.
-Hatchback: Features a rear door that opens upwards to access the cargo area. Hatchbacks are known for their versatility and compact size, often appealing to budget-conscious buyers, impacting their pricing.
-Sedan: This is a four-door passenger car with a separate trunk compartment. Sedans are often perceived as practical, family-friendly vehicles, and they may have a broad market appeal, impacting their pricing.
-Wagon: Similar to a sedan but with a longer roofline and a larger cargo area. Wagons are valued for their practicality and additional cargo space, which can influence their pricing compared to sedans.
-Hardtop : A hardtop body style in cars means that the roof of the car is made of a strong, solid material like metal or fiberglass, and it doesn't fold down or come off like a convertible roof. It provides good protection from weather and is secure, making the car look sleek and streamlined.
+**Convertible:** Has a retractable or removable roof, providing an open-air driving experience. Convertibles are often associated with luxury and style, leading to higher pricing compared to similar non-convertible models.
+**Hatchback:** Features a rear door that opens upwards to access the cargo area. Hatchbacks are known for their versatility and compact size, often appealing to budget-conscious buyers, impacting their pricing.
+**Sedan:** This is a four-door passenger car with a separate trunk compartment. Sedans are often perceived as practical, family-friendly vehicles, and they may have a broad market appeal, impacting their pricing.
+**Wagon:** Similar to a sedan but with a longer roofline and a larger cargo area. Wagons are valued for their practicality and additional cargo space, which can influence their pricing compared to sedans.
+**Hardtop:** A hardtop body style in cars means that the roof of the car is made of a strong, solid material like metal or fiberglass, and it doesn't fold down or come off like a convertible roof. It provides good protection from weather and is secure, making the car look sleek and streamlined.
 
 * **Drive Wheels :-**
 Whether the engine drives the front or rear wheels of the car,
@@ -118,3 +118,8 @@ It is a measure of how many miles your car can travel on one gallon of fuel when
 * **Highway_mpg :-** It is about how many miles a car can travel on one gallon of fuel when driving on highways or open roads without many stops.
 
 * **Price :-** Price of the cars in dollars.
+
+## **Suggestions from you**
+### **Feel free to give us any suggestions regarding improvisation /corrections of our code or any mistakes/procedures done incorrectly in our project notebook. We are in the path of learning and understanding the concept of Machine learning, so any feedback regarding this topic from any of you who worked in these type of projects is beneficial to us in correcting our mistakes and implementing the recorrected procedures to our project.** 
+
+

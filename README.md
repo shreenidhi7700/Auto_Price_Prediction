@@ -17,17 +17,17 @@ The car company names from Japan, USA, Germany, France and Sweden.
 
 * **Fuel Type :-**
 Type of fuel used for the engine in the car,
- * Gas/petrol,
- * Diesel.
+Gas/petrol.
+Diesel.
 
 * **Aspiration :-**
 Aspiration in automobile price prediction refers to how the engine gets its air for combustion. It's either "naturally aspirated," which means it breathes air without any extra help, or "turbocharged" or "supercharged," which means it gets extra air forced into it for more power.
- * std - Standard or Naturally Aspirated,
- * Turbo - Use of Turbochargers or Superchargers
+std - Standard or Naturally Aspirated.
+Turbo - Use of Turbochargers or Superchargers.
 
 * **No of Doors :-**
 The number of Doors a car has
-two - 2 door car,
+two - 2 door car.
 four - 4 door car.
 
 * **Body Style :-**

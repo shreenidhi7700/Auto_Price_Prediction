@@ -1,5 +1,7 @@
 # **AutoMobile Price Prediction**
-We are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
+We are required to use Machine Learning algorithms to predict the price of cars with the available independent variables such as Horsepower, no-of-cylinders, engine-type, city_mpg, highway_mpg etc. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
+
+We had to use Machine learning Regression algorithms such as Linear regression, KNN-regressor, Decision-tree regressor, Support vector regressor, Random-Forest Regressor, Gradient boosting regressor and Xgboost regressor to predict the dependent continous variable of the dataset which is the **price** of the cars. After the prediction, the regression model which gave us best results was choosen for the project.
 
 ## **Domain Analysis :-**
 
